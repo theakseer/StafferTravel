@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What is Hirrd?",
+    "answer": "Hirrd is an online job portal where companies can post job openings, and candidates can search and apply for them. It offers easy navigation and secure login features for both employers and job seekers."
+  },
+  {
+    "question": "How can I create a job listing?",
+    "answer": "Employers can create a job listing by going to the 'Post a Job' section after signing in, filling in the required job information, and submitting the form."
+  },
+  {
+    "question": "How do I find job opportunities?",
+    "answer": "Job seekers can explore job opportunities by using the search bar, which supports filtering by keywords, location, job type, and other criteria."
+  },
+  {
+    "question": "What is the process for applying to a job?",
+    "answer": "To apply for a job, click on the desired job listing and follow the instructions provided, which may include submitting a resume and additional details."
+  },
+  {
+    "question": "Is it possible to save job listings for future reference?",
+    "answer": "Yes, you can bookmark job listings by selecting the 'Save Job' option, which will be stored under the 'Saved Jobs' section in your profile for later access."
+  },
+  {
+    "question": "How can I monitor my job application status?",
+    "answer": "Applicants can view and track the status of their applications through the 'My Applications' section in their account, where updates on each application's progress are displayed."
+  },
+  {
+    "question": "Can I edit or delete a job I posted?",
+    "answer": "Yes, employers can edit or delete a job listing by going to the 'Manage Jobs' section in their dashboard and selecting the appropriate action for the job."
+  },
+  {
+    "question": "How do I create a profile on Hirrd?",
+    "answer": "To create a profile, click on the 'Sign Up' button on the homepage, fill in your details, and follow the prompts to set up your account."
+  },
+  {
+    "question": "What are the benefits of creating an account on Hirrd?",
+    "answer": "Creating an account allows you to apply for jobs, save job searches, receive job alerts, and track the status of your applications."
+  },
+  {
+    "question": "Is there a fee to use Hirrd?",
+    "answer": "No, job seekers can use Hirrd for free to search and apply for jobs. Employers may need to pay a fee to post job listings or access premium services."
+  },
+  {
+    "question": "How can I set up job alerts?",
+    "answer": "You can set up job alerts by going to the 'Job Alerts' section in your profile, specifying your criteria, and choosing how often you'd like to receive notifications."
+  }
+]
